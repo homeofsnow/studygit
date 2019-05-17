@@ -1,10 +1,2 @@
-I lie awake night;
-
-See things in block and white
-
-I only to 
-
-hahahha
-
-
-jdkjsajdsajkdjkasjkjaskdkasjdksaj
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
